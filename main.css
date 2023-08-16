@@ -162,3 +162,7 @@ p {
 header img {
     width: 7%;
 }
+
+.titulo {
+    margin-left: -556px;
+}
